@@ -22,6 +22,9 @@ React.js,Redux Toolkit,Axios,Tailwind / CSS3
 Docker
 ## To run docker file
 docker-compose up --build
+For accessing admin dashboard:
+email:admin@gmail.com  
+password: Admin@123
 ## Authentication & RBAC
 Roles
 1) Employee
